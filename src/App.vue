@@ -78,6 +78,10 @@
   import MaterialsOverview from './components/MaterialsOverview'
   import PageFooter from './components/PageFooter'
 
+  import $ from 'jquery'
+  import 'materialize-css/bin/materialize.js'
+
+
   export default {
     components: {
       NavBar,
