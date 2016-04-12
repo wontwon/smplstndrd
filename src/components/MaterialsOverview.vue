@@ -25,7 +25,9 @@
 			<h5>Height</h5>
 			<ul>
 				<li>
-					41 inches
+					<p class="overview-detail">41 inches</p>
+					<p class="overview-detail">(ideal user: 5'3" - 6")</p>
+					<p class="overview-detail">[more height options coming]</p>
 				</li>
 			</ul>
 		</div>
@@ -39,3 +41,9 @@
 		</div>
 	</div>
 </template>
+
+<style>
+	.overview-detail {
+		margin: 0px;
+	}
+</style>

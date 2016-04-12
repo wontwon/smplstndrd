@@ -4,10 +4,10 @@
       <div class="section">
         <h5 class="white-text marketing-header">Tsukue 
 机 v1.0</h5>
-        <p class="white-text marketing-text">Simple. Strong. Portable. $99. </p>
+        <p class="white-text marketing-text">Simple. Strong. Standing Portable Desk. $99. </p>
         <p class="white-text marketing-text">Ships 06/2016</p>
         <div class="section">
-          <a class="waves-effect waves-light btn light-green accent-3 white-text">Pre-Order Now</a>
+          <button data-celery="5706bf3f07160b1100ebf36d" class="waves-effect waves-light btn light-green accent-3 white-text">Pre-Order Now</button>
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
 
   <div class="row center">
     <h3 class="white-text">[$99] </h3>
-    <a class="waves-effect waves-light btn light-green accent-3 white-text">Pre-Order 
+    <a data-celery="5706bf3f07160b1100ebf36d" class="waves-effect waves-light btn light-green accent-3 white-text">Pre-Order 
     Now</a>
     <p class="white-text marketing-text">Ships 06/2016</p>
   </div>
