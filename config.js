@@ -6,7 +6,7 @@ module.exports = {
     index: path.resolve(__dirname, 'dist/index.html'),
     assetsRoot: path.resolve(__dirname, 'public'),
     assetsSubDirectory: 'public',
-    assetsPublicPath: '/smplstndrd/public',
+    assetsPublicPath: '/smplstndrd/public/',
     productionSourceMap: true
   },
   dev: {
