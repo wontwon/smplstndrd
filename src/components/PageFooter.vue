@@ -3,7 +3,7 @@
 	  <div class="container">
 	    <div class="row">
 	      <div class="col l6 s12">
-	        <h5 class="white-text">Designed in the USA</h5>
+	        <h5 class="white-text">Designed with Love in Seattle + Virginia</h5>
 	        <p class="grey-text text-lighten-4">Keep it Simple.</p>
 	      </div>
 	    </div>
